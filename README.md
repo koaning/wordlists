@@ -6,3 +6,7 @@ Just a bunch of potentially useful wordlists. These lists are not meant to be ac
 - `swears2.txt` - found [online](https://www.cs.cmu.edu/~biglou/resources/bad-words.txt)
 - `positive1.txt` - found [online](https://www.vocabulary.com/lists/179734)
 - `currencies.txt` - found [online](https://www.nltk.org/api/nltk.corpus.reader.wordlist.html#nltk.corpus.reader.wordlist.UnicharsCorpusReader)
+- `frequencies.txt` - found [online](https://en.wiktionary.org/wiki/Category:English_frequency_adverbs)
+- `adverbs-degree.txt` - found [online](https://en.wiktionary.org/wiki/Category:English_degree_adverbs)
+- `adverbs-superlative.txt` - found [online](https://en.wiktionary.org/wiki/Category:English_superlative_adverbs)
+- `adverbs-comparative.txt` - found [online](https://en.wiktionary.org/wiki/Category:English_comparative_adverbs)
